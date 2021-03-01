@@ -4,5 +4,4 @@
 %print('Hello World')
 %LOL
 
-print('This edit was made in the browser on github''s website')
-
+print('This edit was made in the browser on github\'s website')
